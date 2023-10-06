@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.BottonMenu" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/pastel</item>
+        <item name="colorPrimaryDark">@color/dark_green</item>
+        <item name="colorAccent">@color/pastel</item>
+    </style>
+
+    <style name="Theme.BottonMenu" parent="Theme.MaterialComponents.NoActionBar" />
+</resources>
