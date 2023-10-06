@@ -15,5 +15,6 @@
         android:title="@string/fauna" />
     <item
         android:id="@+id/placeholder"
-        android:title="" />
+        android:title=""
+        android:enabled="false"/>
 </menu>
